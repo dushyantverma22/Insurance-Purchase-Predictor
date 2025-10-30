@@ -1,0 +1,17 @@
+.venv
+artifact
+logs
+src.egg-info
+__pycache__
+.ipynb_checkpoints
+.env
+.vscode
+.DS_Store
+.git
+.gitignore
+README.md
+ck.py 
+LICENSE
+experiment
+template.py 
+demo.py 
