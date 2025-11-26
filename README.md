@@ -1,4 +1,4 @@
-# 🚗 Vehicle Purchase Prediction — End-to-End MLOps Project
+# 🚗 Vehicle Insurance Purchase Prediction — End-to-End MLOps Project
 
 > **Production-grade ML system built with Random Forest + FastAPI + Docker + AWS + CI/CD**
 
@@ -9,7 +9,7 @@ Demonstrates real-world **MLOps, ML Engineering, Deployment & Cloud skills** end
 
 ## 🎯 Objective
 
-Build & deploy a **Vehicle Purchase Prediction System** with:
+Build & deploy a **Vehicle Insurance Purchase Prediction System** with:
 
 ✅ Modular ML Pipeline
 ✅ Automated CI/CD
