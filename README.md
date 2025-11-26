@@ -1,15 +1,15 @@
-# 🚗 Vehicle Insurance Claim Prediction — End-to-End MLOps Project
+# 🚗 Vehicle Purchase Prediction — End-to-End MLOps Project
 
 > **Production-grade ML system built with Random Forest + FastAPI + Docker + AWS + CI/CD**
 
-This project predicts whether a customer will claim vehicle insurance based on demographic, policy & vehicle attributes.
+This project predicts whether a customer will purchase vehicle insurance based on demographic, policy & vehicle attributes.
 Demonstrates real-world **MLOps, ML Engineering, Deployment & Cloud skills** end-to-end.
 
 ---
 
 ## 🎯 Objective
 
-Build & deploy a **Vehicle Insurance Claim Prediction System** with:
+Build & deploy a **Vehicle Purchase Prediction System** with:
 
 ✅ Modular ML Pipeline
 ✅ Automated CI/CD
@@ -24,7 +24,7 @@ Build & deploy a **Vehicle Insurance Claim Prediction System** with:
 
 ### 🎯 Target Variable
 
-`Response` → **1 = Customer will claim insurance**, **0 = No claim**
+`Response` → **1 = Customer will purchase**, **0 = No purchase**
 
 ### 🧠 Model Used
 
